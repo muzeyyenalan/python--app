@@ -1,4 +1,4 @@
-list=[1,2,4,5]
-for i in list:
-  print(i)
-  
+
+for i in range(0,10):
+    print(i)
+

@@ -1,1 +1,1 @@
-# phtton-app
+# python-app
